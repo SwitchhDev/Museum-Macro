@@ -1,2 +1,8 @@
 # Museum-Macro
-Auto museum for hypixel skyblock
+
+Completes the museum for you.
+Will buy from the auction house, and you can set custom max bid limits
+
+The command for the gui is /msm
+
+Required chatriggers.
